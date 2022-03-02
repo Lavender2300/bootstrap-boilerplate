@@ -8,7 +8,7 @@ This is for a website.
 
 This project includes: 
 
--index.html
--CSS/style.css
--JS/
--IMG/
+- index.html
+- CSS/style.css
+- JS/
+- IMG/
